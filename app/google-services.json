@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439810676148",
+    "firebase_url": "https://baas-6d961.firebaseio.com",
+    "project_id": "baas-6d961",
+    "storage_bucket": "baas-6d961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439810676148:android:17ad1258547a423a",
+        "android_client_info": {
+          "package_name": "andressancho.com.baas_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439810676148-kcgtp6klrts2g6o7uc98g4ka0e8l3iep.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "439810676148-kcgtp6klrts2g6o7uc98g4ka0e8l3iep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbChJV57lK64-ZMiw1N7yIAQyg3vSSGPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
