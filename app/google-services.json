@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "439810676148-1f00i4hi63l645fnqnmtir9chouvucg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andressancho.com.baas_firebase",
+            "certificate_hash": "ef40eba0512032f2bef1f91e534ca8c92a660f56"
+          }
+        },
+        {
           "client_id": "439810676148-kcgtp6klrts2g6o7uc98g4ka0e8l3iep.apps.googleusercontent.com",
           "client_type": 3
         },
@@ -33,8 +41,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439810676148-kcgtp6klrts2g6o7uc98g4ka0e8l3iep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
